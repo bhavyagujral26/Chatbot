@@ -2,6 +2,8 @@ import google.generativeai as genai
 import pickle
 import numpy as np
 
+
+st.success("just the first page")
 # Load ML models
 model_paths = {
     "knn": "C:\\Users\\Bhavya\\Downloads\\drive-download-20250331T152810Z-001\\knn_model.sav",
