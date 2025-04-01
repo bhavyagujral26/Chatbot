@@ -1,6 +1,7 @@
 import google.generativeai as genai
 import pickle
 import numpy as np
+import streamlit as st
 
 
 st.success("just the first page")
