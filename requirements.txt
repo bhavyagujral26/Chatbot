@@ -1,3 +1,4 @@
-google.generativeai as genai
+google.generativeai
 pickle
-numpy as np
+numpy
+streamlit
